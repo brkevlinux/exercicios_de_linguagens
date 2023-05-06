@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Ex001 {
 
 	public static void main(String[] args) {
-		// Exercicios em java.
+		// Exercicios ex001, ex002, ex003, ex007 em java.
 		Scanner tecla = new Scanner(System.in);
 		System.out.println("Olá qual é o seu nome?");
 		String nome = tecla.nextLine();
