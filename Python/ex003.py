@@ -1,5 +1,5 @@
 # Exercício 03 de Python.
-#Exercícios 006
+#Exercícios 006, 007
 
 numero = int(input('Digite um numero inteiro: '))
 dobro = numero * 2
