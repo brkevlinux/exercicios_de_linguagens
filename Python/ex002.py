@@ -1,5 +1,6 @@
 # Exercicio 02 de Python.
 # Exercicio resolvido ex004.
+
 entrada = input('Digite algo: ')
 print(f'''
 	O tipo primitivo dessa variavel e: {type(entrada)}

@@ -1,5 +1,6 @@
 # Exercício 01 de Python com base no Curso em video.
 # Exercícios resolvidos: 001; 002; 003 e 005.
+
 nome = input('Qual o seu nome?\n')
 print(f'Ola {nome}, bem-vindo ao terminal!')
 valor_um = int(input('Digite um valor para calcular: '))
