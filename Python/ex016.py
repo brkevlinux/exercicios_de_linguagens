@@ -1,5 +1,5 @@
 # Exercicio de Python V.3.
-# Exercicio numero 22.
+# Exercicios numero 22 e 25.
 
 nome = str(input('Digite o seu nome: '))
 primeiro = nome.split()
@@ -8,4 +8,5 @@ print(f'''
 	Seu nome ao todo tem {len(nome.strip()) - nome.count(' ')} letras.
 	Seu nome em minusculas {nome.lower()}
 	Seu nome em maiusculas {nome.upper()}
-	''')
+	O seu nome possui Silva? {'silva' in nome.lower()}
+	''') 
