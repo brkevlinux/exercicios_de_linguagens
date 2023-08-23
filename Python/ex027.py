@@ -1,5 +1,5 @@
 # Exercicio de Python V.3.
-# Exercicio numero 13
+# Exercicio numero 34.
 
 sal = float(input('Qual é o seu salario atual? R$ '))
 if sal <= 1250:

@@ -1,5 +1,5 @@
 # Exercicio de Python V.3.
-# Exercicio numero 13
+# Exercicio numero 13.
 
 sal = float(input('Qual é o seu salario atual? R$ '))
 ajuste = int(input('Qual é a porcentagem de ajuste? '))
